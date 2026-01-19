@@ -13,7 +13,7 @@ function populateDropdown(dropdown, options) {
     dropdown.querySelector("ul").appendChild(li);
   });
 }
-//This is use to fetch data from Api
+//This is use to fetch data from Apidfsd
 populateDropdown(inputLanguageDropdown, languages);
 populateDropdown(outputLanguageDropdown, languages);
 
